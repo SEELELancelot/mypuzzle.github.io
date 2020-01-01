@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mypuzzle.github.io/static/css/main.22687698.chunk.css",
+    "main.css": "/mypuzzle.github.io/static/css/main.a5757969.chunk.css",
     "main.js": "/mypuzzle.github.io/static/js/main.730f8666.chunk.js",
     "main.js.map": "/mypuzzle.github.io/static/js/main.730f8666.chunk.js.map",
     "runtime-main.js": "/mypuzzle.github.io/static/js/runtime-main.8f174d4f.js",
@@ -8,9 +8,9 @@
     "static/js/2.bfc13460.chunk.js": "/mypuzzle.github.io/static/js/2.bfc13460.chunk.js",
     "static/js/2.bfc13460.chunk.js.map": "/mypuzzle.github.io/static/js/2.bfc13460.chunk.js.map",
     "index.html": "/mypuzzle.github.io/index.html",
-    "precache-manifest.31403616143a6ce413f8130fa13c8b30.js": "/mypuzzle.github.io/precache-manifest.31403616143a6ce413f8130fa13c8b30.js",
+    "precache-manifest.629ddc9201feaee2c8d13fdaf3b55eca.js": "/mypuzzle.github.io/precache-manifest.629ddc9201feaee2c8d13fdaf3b55eca.js",
     "service-worker.js": "/mypuzzle.github.io/service-worker.js",
-    "static/css/main.22687698.chunk.css.map": "/mypuzzle.github.io/static/css/main.22687698.chunk.css.map",
+    "static/css/main.a5757969.chunk.css.map": "/mypuzzle.github.io/static/css/main.a5757969.chunk.css.map",
     "static/js/2.bfc13460.chunk.js.LICENSE": "/mypuzzle.github.io/static/js/2.bfc13460.chunk.js.LICENSE",
     "static/media/1.png": "/mypuzzle.github.io/static/media/1.fa2456c3.png",
     "static/media/10.png": "/mypuzzle.github.io/static/media/10.9b49ec26.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f174d4f.js",
     "static/js/2.bfc13460.chunk.js",
-    "static/css/main.22687698.chunk.css",
+    "static/css/main.a5757969.chunk.css",
     "static/js/main.730f8666.chunk.js"
   ]
 }
