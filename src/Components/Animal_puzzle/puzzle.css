@@ -4,11 +4,11 @@
 }
 
 .mypuzzle_div{
-    width: 500px;
+    width: 400px;
     position: absolute;
     left: 50%;
     top:50%;
-    transform:translate(-250px,-200px);
+    transform:translate(-200px,-200px);
     flex-wrap: wrap;
     background: #61dafb;
 
