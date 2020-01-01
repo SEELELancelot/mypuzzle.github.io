@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/mypuzzle/static/css/main.22687698.chunk.css",
+    "main.js": "/mypuzzle/static/js/main.96606464.chunk.js",
+    "main.js.map": "/mypuzzle/static/js/main.96606464.chunk.js.map",
+    "runtime-main.js": "/mypuzzle/static/js/runtime-main.bbd26d59.js",
+    "runtime-main.js.map": "/mypuzzle/static/js/runtime-main.bbd26d59.js.map",
+    "static/js/2.bfc13460.chunk.js": "/mypuzzle/static/js/2.bfc13460.chunk.js",
+    "static/js/2.bfc13460.chunk.js.map": "/mypuzzle/static/js/2.bfc13460.chunk.js.map",
+    "index.html": "/mypuzzle/index.html",
+    "precache-manifest.b69656bfa090330a36d3419829b5eace.js": "/mypuzzle/precache-manifest.b69656bfa090330a36d3419829b5eace.js",
+    "service-worker.js": "/mypuzzle/service-worker.js",
+    "static/css/main.22687698.chunk.css.map": "/mypuzzle/static/css/main.22687698.chunk.css.map",
+    "static/js/2.bfc13460.chunk.js.LICENSE": "/mypuzzle/static/js/2.bfc13460.chunk.js.LICENSE",
+    "static/media/1.png": "/mypuzzle/static/media/1.fa2456c3.png",
+    "static/media/10.png": "/mypuzzle/static/media/10.9b49ec26.png",
+    "static/media/2.png": "/mypuzzle/static/media/2.49c387c7.png",
+    "static/media/3.png": "/mypuzzle/static/media/3.22679754.png",
+    "static/media/4.png": "/mypuzzle/static/media/4.a3f6120d.png",
+    "static/media/5.png": "/mypuzzle/static/media/5.ccddd539.png",
+    "static/media/6.png": "/mypuzzle/static/media/6.66b8179c.png",
+    "static/media/7.png": "/mypuzzle/static/media/7.e07405a8.png",
+    "static/media/8.png": "/mypuzzle/static/media/8.8c0dba0c.png",
+    "static/media/9.png": "/mypuzzle/static/media/9.823a7a80.png",
+    "static/media/animal-raccoon-001.png": "/mypuzzle/static/media/animal-raccoon-001.e437eb77.png",
+    "static/media/animal-tiger-001.png": "/mypuzzle/static/media/animal-tiger-001.85546a3d.png",
+    "static/media/animal-zebra-001.png": "/mypuzzle/static/media/animal-zebra-001.b8b9cc14.png",
+    "static/media/back.png": "/mypuzzle/static/media/back.a3dd6169.png",
+    "static/media/bird-bluebird-001.png": "/mypuzzle/static/media/bird-bluebird-001.d8ebfde3.png",
+    "static/media/bird-chicken-001.png": "/mypuzzle/static/media/bird-chicken-001.b7958455.png",
+    "static/media/insect-bee-001.png": "/mypuzzle/static/media/insect-bee-001.ab5c4f1e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd26d59.js",
+    "static/js/2.bfc13460.chunk.js",
+    "static/css/main.22687698.chunk.css",
+    "static/js/main.96606464.chunk.js"
+  ]
+}
