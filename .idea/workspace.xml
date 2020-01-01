@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="897b6cd0-1ff7-4e89-a959-d4daf1e0ca39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vjw3UXcOlJ2C4GA2VmwTD8Wdhy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\my_puzzle_react\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\my_puzzle_react\src\Animal_img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="897b6cd0-1ff7-4e89-a959-d4daf1e0ca39" name="Default Changelist" comment="" />
+      <created>1577779612770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577779612770</updated>
+      <workItem from="1577779614019" duration="6030000" />
+      <workItem from="1577847796810" duration="6578000" />
+      <workItem from="1577854830758" duration="14978000" />
+      <workItem from="1577871598799" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="98" key="#Configure_Path_Variables" timestamp="1577847802855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="98" key="#Configure_Path_Variables/0.0.1920.1040@0.0.1920.1040" timestamp="1577847802855" />
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1577866739604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577866739604" />
+    <state x="464" y="270" key="EditFileWatcherDialog" timestamp="1577783550923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="270" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577783550923" />
+    <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1577779760712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577779760712" />
+    <state x="333" y="78" key="SettingsEditor" timestamp="1577779624132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577779624132" />
+    <state x="571" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1577854830455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577854830455" />
+    <state x="532" y="239" key="run.anything.popup" timestamp="1577849315729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577849315729" />
+  </component>
+</project>

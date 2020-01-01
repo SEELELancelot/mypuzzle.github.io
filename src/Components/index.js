@@ -1,0 +1,1 @@
+export {default as Animal_puzzle} from './Animal_puzzle'

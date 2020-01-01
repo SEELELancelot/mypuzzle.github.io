@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+
+}
+
+.mypuzzle_div{
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform:translate(-250px,-200px);
+    flex-wrap: wrap;
+    background: #61dafb;
+
+}
+.puzzle_img{
+}
